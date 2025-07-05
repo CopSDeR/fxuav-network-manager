@@ -5,7 +5,7 @@
 - [x] Choose GUI stack (PyGObject/GTK or PyQt)
 - [x] Freeze tech stack (Python, mmcli, nmcli, speedify_cli)
 - [x] Finalize target hardware (RPi, Jetson Nano/Orin)
-- [ ] Refine GUI wireframe
+- [x] Refine GUI wireframe
 
 ---
 
