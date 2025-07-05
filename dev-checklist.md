@@ -4,7 +4,7 @@
 - [x] Finalize scope (exclude video stream metrics for now)
 - [x] Choose GUI stack (PyGObject/GTK or PyQt)
 - [x] Freeze tech stack (Python, mmcli, nmcli, speedify_cli)
-- [ ] Finalize target hardware (RPi, Jetson Nano/Orin)
+- [x] Finalize target hardware (RPi, Jetson Nano/Orin)
 - [ ] Refine GUI wireframe
 
 ---
